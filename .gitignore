@@ -1,0 +1,22 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+cloudy
+
+# Build directories
+build/
+obj/
+
+# PPM output files (if these are generated, not meant to be tracked)
+*.ppm
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.vs/
+*.suo
+*.user
