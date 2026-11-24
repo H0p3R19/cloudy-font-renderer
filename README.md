@@ -25,7 +25,7 @@ You'll need a C++ compiler and Make installed .You can easily install theese in 
 sudo apt update && sudo apt install build-essential #this is an example for installing dependencies on a Debian based system. 
 
 # Clone this repo
-git clone https://github.com/your-username/cloudy-font-renderer.git
+git clone https://github.com/H0p3R19/cloudy-font-renderer.git
 
 # Go into the folder
 cd cloudy-font-renderer
